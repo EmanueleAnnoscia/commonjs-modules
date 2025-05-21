@@ -15,5 +15,7 @@
     "url": "https://github.com/EmanueleAnnoscia/commonjs-modules/issues"
   },
   "homepage": "https://github.com/EmanueleAnnoscia/commonjs-modules#readme",
-  "description": ""
+  "description": "",
+  "type" : "module"
+
 }
